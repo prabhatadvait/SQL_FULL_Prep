@@ -1,5 +1,13 @@
 # 📊 SQL Practice Repository  
 
+![GitHub last commit](https://img.shields.io/github/last-commit/prabhatadvait/SQL-Practice?color=blue&style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/prabhatadvait/SQL-Practice?color=success&style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/prabhatadvait/SQL-Practice?color=yellow&style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/prabhatadvait/SQL-Practice?color=orange&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/prabhatadvait/SQL-Practice?style=for-the-badge)
+
+---
+
 Welcome to my **SQL Practice Repository**! 🚀  
 This repository is a collection of **SQL questions and solutions** from multiple platforms such as:  
 
